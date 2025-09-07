@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/adapters.dart';
 import 'package:taskati/core/services/local_helper.dart';
-import 'package:taskati/core/utils/colors.dart';
 import 'package:taskati/core/utils/theme.dart';
 import 'package:taskati/feature/splash/splash_screen.dart';
 
